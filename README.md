@@ -1,3 +1,4 @@
+## ...em andamento
 # Mentoria Typescript da plataforma DIO - Digital Innovation One
 
 ## Do que você vai precisar
